@@ -1,7 +1,7 @@
 # 👨‍💻 Tshegofatso Hlabela
 **Full-Stack Web Developer | ICT Applications Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tshegofatso-hlabela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tshegofatso-hlabela-bb16a4279)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Emeritus-Dev)
 📧 222975016@mycput.ac.za | 📍 Cape Town, Western Cape | 📱 061 520 8170
 

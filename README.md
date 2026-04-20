@@ -79,9 +79,7 @@ I am a final-year ICT Applications Development student with a "troubleshooting m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-*(Note: Replace `YOUR_YOUTUBE_VIDEO_ID` with your actual video ID, or use `<video width="100%" controls><source src="Hlabela T Mock Video.mp4" type="video/mp4"></video>` if the video is uploaded directly to the repository).*
 
----
 
 ## 🧠 Work Readiness Reflections 
 

@@ -77,11 +77,14 @@ I am a final-year ICT Applications Development student with a "troubleshooting m
 
 *(Check out my 2-minute introductory video demonstrating my communication skills and technical readiness)*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j41quL9J6hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Click here to watch if the video doesn't load:**  
+[▶️ Watch my mock interview on YouTube](https://www.youtube.com/shorts/j41quL9J6hs)
 
+---
 
-## 🧠 Work Readiness Reflections 
+## 🧠 Work Readiness Reflections (STAR Method)
 
 As part of my Work-Integrated Learning preparation for the 2026 intake, I have compiled my digital portfolio using GitHub. Below are my structured reflections on the process of building this portfolio, following the STAR (Situation, Task, Action, Result) methodology.
 
